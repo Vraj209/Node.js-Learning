@@ -1,0 +1,20 @@
+{
+  "name": "04_event_emiiter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "logEvent.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "dependencies": {
+    "date-fns": "^2.30.0",
+    "event": "^1.0.0",
+    "uuid": "^9.0.0"
+  }
+}
